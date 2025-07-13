@@ -1,10 +1,10 @@
 
 # 📄 Software Requirements Specification (SRS)
 
-**Project Name**: Substrate
-**Version**: 0.1.0
-**Author**: Aham Labs
-**Date**: July 13, 2025
+- **Project Name**: Substrate
+- **Version**: 0.1.0
+- **Author**: Aham Labs
+- **Date**: July 13, 2025
 
 ---
 
